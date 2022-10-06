@@ -12,4 +12,4 @@ Durante el seminario se impartirá tanto una introducción teórica a los princi
 
 Para el desarrollo del seminario utilizaremos una máquina virtual que cada participante tendrá que abrir en <[Rstudio.cloud](https://rstudio.cloud/)>.
 
-Los archivos con el código y los datos que utilizaremos en el seminario están disponibles en la carpeta de `archivos para descarga` 
+Los archivos con el código y los datos que utilizaremos en el seminario están disponibles en las carpetas de `sesión de mañana` y `sesión de tarde`.
